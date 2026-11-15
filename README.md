@@ -1,8 +1,10 @@
 # Brain in a Vat
 
-Source code for a music video about two brains in neighbouring jars who fall in love.
+Source code for the [Brain in a Vat music video](https://www.youtube.com/watch?v=se3VRTsLnOA), about two brains in neighbouring jars who fall in love.
 
-![thumbnail](docs/thumbnails/thumb1_two_jars.png)
+[![Watch on YouTube](docs/thumbnails/thumb1_two_jars.png)](https://www.youtube.com/watch?v=se3VRTsLnOA)
+
+**Watch it on YouTube:** <https://www.youtube.com/watch?v=se3VRTsLnOA>
 
 ## Credits
 

@@ -10,3 +10,5 @@ File 02 holds the answers to Claude's multiple-choice clarifying questions. The 
 | 2 | [02_answers.md](02_answers.md) | Answers to clarifying questions |
 | 3 | [03_use_dust.md](03_use_dust.md) | Use the dust for romantic messages or a dusty jar |
 | 4 | [04_commit_and_push.md](04_commit_and_push.md) | Commit and push |
+| 5 | [05_readme_youtube.md](05_readme_youtube.md) | Link the YouTube upload in the README |
+| 6 | [06_commit_and_push.md](06_commit_and_push.md) | Commit and push |
